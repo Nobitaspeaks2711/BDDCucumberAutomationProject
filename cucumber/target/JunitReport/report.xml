@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.984" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="check  home page functionality." name="check logout link" time="7.095">
+<system-out><![CDATA[
+Given user is on logging page...............................................passed
+When user enter username password...........................................passed
+And Clicks on login button..................................................passed
+When user click on Practise button..........................................passed
+And Click on the Text Exceptions Link.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check  home page functionality." name="check text box is occur or not" time="11.679">
+<system-out><![CDATA[
+Given user is on logging page...............................................passed
+When user enter username password...........................................passed
+And Clicks on login button..................................................passed
+When user click on the Add button...........................................passed
+And Send text on text box...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
